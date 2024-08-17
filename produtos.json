@@ -1,6 +1,6 @@
 [
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "img": "https://images.unsplash.com/photo-1649859398731-d3c4ebca53fc?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "nome": "Smartphone XYZ",
       "descricao": "Celular de última geração",
       "valorSemDesconto": 1200.00,
@@ -8,7 +8,7 @@
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "img": "https://images.unsplash.com/photo-1493020258366-be3ead1b3027?q=80&w=3424&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "nome": "Notebook ABC",
       "descricao": "Notebook ultrafino e potente",
       "valorSemDesconto": 2500.00,
