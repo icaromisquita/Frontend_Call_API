@@ -20,9 +20,8 @@ function exibirProdutos(produtos) {
                 <img src="${produto.img}">
                 <div class="products__info">
                     <h3>${produto.nome}</h3>
-                    <p>${produto.descricao}
-                    </p>
-                    <h4>R$ ${produto.valorComDesconto}<s>R$ ${produto.valorSemDesconto}</s></h4>
+                    <p>${produto.descricao}</p>
+                    <h4>R$ ${produto.valorComDesconto} <s> R$ ${produto.valorSemDesconto}</s></h4>
                     <p>Frete GRÁTIS</p>
                 </div>
             </div>
